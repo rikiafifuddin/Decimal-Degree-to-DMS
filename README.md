@@ -17,4 +17,3 @@ for futher question contact me
 email: rikinur34@gmail.com
 
 This Project for university assasment (because i am not following mid semester examp)
-if you want add or request new calculation please contact me.
