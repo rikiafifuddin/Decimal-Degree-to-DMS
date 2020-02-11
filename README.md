@@ -7,8 +7,11 @@ How To Use
 	- insert Decimal degree for Destination latitude and longitude
 	- Convert
 	
+Main File
+	- Folder Production
+	
 Bug
-	- Google Map for showing in map 2 point (currently not available due Google API expired)
+	- Google Map for showing in map 2 point (currently not available due Google API expired and not well code)
 	
 for futher question contact me
 email: rikinur34@gmail.com
