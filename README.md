@@ -2,7 +2,7 @@
  Program for convert Decimal degree (latitude,longitude) to DMS (Degree Meter Second) and calculating distance bentwen 2 point in KM (Kilometer).
  
 How To Use
-	- intal Xampp or other app for preview web code
+	- instal Xampp or other app for preview web code
 	- insert Decimal degree for Start latitude and longitude
 	- insert Decimal degree for Destination latitude and longitude
 	- Convert
